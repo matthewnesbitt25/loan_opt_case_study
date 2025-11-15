@@ -46,19 +46,19 @@ Results
 loan-approval-optimization/
 │
 ├── notebook/
-│ └── complete_exploration.ipynb
-│ └── apprvrate_by_loanamt_lender.png
-│ └── apprvrate_by_loanamt.png
-│ └── rev_per_app_difference.png
+│   ├── complete_exploration.ipynb
+│   ├── apprvrate_by_loanamt_lender.png
+│   ├── apprvrate_by_loanamt.png
+│   └── rev_per_app_difference.png
 │
 ├── visualizations/
-│ └── apprvrate_by_FICO_group.png
+│   └── apprvrate_by_FICO_group.png
 │
 ├── data/
-│ └── README.md
+│   └── README.md
 │
 ├── scripts/
-│ └── analysis.py
+│   └── analysis.py
 │
 └── README.md
 
