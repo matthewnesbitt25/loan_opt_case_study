@@ -43,6 +43,7 @@ Results
 
 ## Repository Structure
 
+```
 loan-approval-optimization/
 │
 ├── notebook/
@@ -61,6 +62,7 @@ loan-approval-optimization/
 │   └── analysis.py
 │
 └── README.md
+```
 
  ## Tools Used
 
